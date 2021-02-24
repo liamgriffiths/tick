@@ -1,5 +1,7 @@
 # tick
 
+Runs the ["TICK stack"](https://www.influxdata.com/) in docker-compose.
+
 ## Running
 
 ```bash
